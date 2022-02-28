@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Surya
 - 👀 I’m interested in Scouting Talents for SaaS Products
 - 🌱 I’m currently learning Product Hiring
-- 💞️ I’m looking to collaborate on Product Developers
+- 💞️ I’m looking to collaborate with Product Developers
 - 📫 How to reach me dhanasurya@joinweare.com
 
 <!---
